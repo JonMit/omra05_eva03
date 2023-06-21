@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS                     PORTS                                       NAMES
+fd977e44603d   13f382bd5c3c   "/bin/sh -c 'python3…"   14 hours ago   Exited (255) 5 hours ago   0.0.0.0:8888->8888/tcp, :::8888->8888/tcp   jonathan_running
